@@ -1,0 +1,6 @@
+.vscode/
+build/
+memory
+*.a
+test_run
+vgcore*
